@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "minecraftId": "item.mcdisc.1",
+        "url": "https://www.youtube.com/watch?v=IfqcH9KPuIQ",
+        "name": "Poké Mart",
+        "artist": "Pokeli",
+        "released": true,
+        "soundId": "sound.mcdisc.1"
+    },
+    {
+        "id": 2,
+        "minecraftId": "item.mcdisc.2",
+        "url": "https://www.youtube.com/watch?v=7uTkg_x0Zik",
+        "name": "Ghetsis Battle Us&Um",
+        "artist": "Pokeli",
+        "released": true,
+        "soundId": "sound.mcdisc.2"
+    },
+    {
+        "id": 3,
+        "minecraftId": "item.mcdisc.3",
+        "url": "https://www.youtube.com/watch?v=6m9YXsEh_go",
+        "name": "Lissandre Battle Us&Um",
+        "artist": "Pokeli",
+        "released": true,
+        "soundId": "sound.mcdisc.3"
+    }
+]
