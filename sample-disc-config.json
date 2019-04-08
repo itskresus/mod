@@ -25,5 +25,23 @@
         "artist": "Pokeli",
         "released": true,
         "soundId": "sound.mcdisc.3"
+    },
+    {
+        "id": 4,
+        "minecraftId": "item.mcdisc.4",
+        "url": "https://www.youtube.com/watch?v=RTvCrVI0YzM",
+        "name": "Victory Road Or&As",
+        "artist": "Pokeli",
+        "released": true,
+        "soundId": "sound.mcdisc.4"
+    },
+    {
+        "id": 5,
+        "minecraftId": "item.mcdisc.5",
+        "url": "https://www.youtube.com/watch?v=u4z4iWBdL9E",
+        "name": "Paniola Ranch S&M",
+        "artist": "Pokeli",
+        "released": true,
+        "soundId": "sound.mcdisc.5"
     }
 ]
